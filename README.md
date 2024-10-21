@@ -1,4 +1,4 @@
-
+    
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/selam999x) 
@@ -21,7 +21,7 @@ Here's a list of technologies I use regularly:
 ![](https://github-profile-trophy.vercel.app/?username=Parasayte&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=selam999x&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Parasayte&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/selam999x)
