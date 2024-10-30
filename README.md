@@ -7,26 +7,26 @@
 # 💻 Tech Stack:
 Here's a list of technologies I use regularly:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
+![Aseprite](https://img.shields.io/badge/-gray?style=flat&logo=aseprite&label=Aseprite
+)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Parasayte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Parasayte&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parasayte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Parasayte&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Parasayte&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://img.shields.io/github/watchers/Parasayte/flappy-ufo?style=plastic&labelColor=12%2C15%2C25
+)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/selam999x)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/selam999x)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  
+  ![GitHub followers](https://img.shields.io/github/followers/Parasayte?style=plastic&labelColor=purple&color=royalblue
+)
+
 
