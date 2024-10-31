@@ -1,4 +1,5 @@
-    
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/selam999x) 
@@ -14,19 +15,19 @@ Here's a list of technologies I use regularly:
 )
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Parasayte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Parasayte&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parasayte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-![](https://img.shields.io/github/watchers/Parasayte/flappy-ufo?style=plastic&labelColor=12%2C15%2C25
-)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Parasayte&show_icons=true&locale=en&layout=compact&theme=dark&custom_color=crimson" alt="Parasayte" />
+</p>
+<br>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/selam999x)
+<a align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Parasayte&label=Profile%20views&color=DC143C&style=flat" alt="Parasayte" /> 
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-  ![GitHub followers](https://img.shields.io/github/followers/Parasayte?style=plastic&labelColor=purple&color=royalblue
-)
 
 
