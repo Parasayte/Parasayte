@@ -20,8 +20,6 @@ Here are the technologies I work with:
 ![](https://github-profile-trophy.vercel.app/?username=Parasayte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-# 💰 Support Me:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/selam999x)
 
 # 📈 Activity Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parasayte&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
